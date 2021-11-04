@@ -79,3 +79,11 @@ colombia.push({
   name: "Bill Gates",
   salary: 100000000,
 });
+colombia.push({
+  name: "Marvin Menchú",
+  salary: 6500,
+});
+colombia.push({
+  name: "Cristian Say",
+  salary: 4500,
+});
